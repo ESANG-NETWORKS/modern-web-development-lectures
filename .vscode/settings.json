@@ -1,0 +1,7 @@
+{
+  "plantuml.render": "Local",
+  "plantuml.exportFormat": "png",
+  "cSpell.words": [
+    "Usecase"
+  ]
+}
